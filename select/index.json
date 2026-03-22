@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "RHODESIA",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-03-22T10:41:58.658102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "...Rhodesia",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/01_...Rhodesia_Japan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "...Rhodesia [1978]",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/02_...Rhodesia_[1978]_Japan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back In Rhodesia",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/03_Back_In_Rhodesia_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "...Rhodesia",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/04_...Rhodesia_Japan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rhodesia",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/05_Rhodesia_Japan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back In Rhodesia (Early Version Of When You Get Drafted)",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/06_Back_In_Rhodesia_(Early_Version_Of_When_You_Get_Drafted)_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "...Rhodesia",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/07_...Rhodesia_Japan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Christmas in Rhodesia",
+      "artist": "John Edmond",
+      "has_synced": false,
+      "path": "select/08_Christmas_in_Rhodesia_John_Edmond.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back in Rhodesia [Early Version of When You Get Drafted]",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/09_Back_in_Rhodesia_[Early_Version_of_When_You_Get_Drafted]_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Left My Heart In Rhodesia",
+      "artist": "The Rhodies",
+      "has_synced": true,
+      "path": "select/10_I_Left_My_Heart_In_Rhodesia_The_Rhodies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rhodesia",
+      "artist": "The Rhodies",
+      "has_synced": false,
+      "path": "select/11_Rhodesia_The_Rhodies.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back In Rhodesia",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/12_Back_In_Rhodesia_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "... Rhodesia",
+      "artist": "Japan",
+      "has_synced": true,
+      "path": "select/13_..._Rhodesia_Japan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RHODESIA",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_RHODESIA_KAT-TUN.txt"
+    }
+  ]
+}
